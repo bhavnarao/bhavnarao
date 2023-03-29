@@ -2,20 +2,17 @@
 
 <h1>🌱 I’m currently learning ...</h1>
 
-- Web Developement
--    Machine Learning<br>
--    Competitive Coding<br>
+-    UX Research<br>
+-    UI Design<br>
+-    Product design<br>
 <h1> 👯 I’m looking to collaborate on ...</h1>
 
-- Web Developement
-<h1>🤔 I’m looking for help with ...</h1>
+- UXUI Case studies and projects
 
-- Cloud Computing
-- Backend Developement
 
 <h1>🔭 I’m currently working on ...</h1>
 
-- https://fyi-vitc.web.app/#/ (current)
+- https://www.bhavnakaruparthi.com/copy-2-of-swasthyaan (current)
      
 <h1> 📫 How to reach me ...</h1>
 
